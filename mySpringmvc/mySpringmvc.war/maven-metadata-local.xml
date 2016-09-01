@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>mySpringmvc</groupId>
+  <artifactId>mySpringmvc.war</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160831084745</lastUpdated>
+  </versioning>
+</metadata>
